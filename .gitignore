@@ -1,0 +1,66 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+*.log
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET
+project.lock.json
+project.fragment.lock.json
+*.dbmdl
+*.dbproj
+*.dbproj.schemaview
+*.jfm
+*.dbschema
+*.jfm
+*.sln.ide
+*.pdb
+*.mdf
+*.ldf
+*.ncb
+*.sdf
+*.suo
+
+# Publish output
+publish/
+
+# Azure Functions
+*.csproj.user
+*.csproj.lock.json
+
+# Blazor specific
+wwwroot/*.gz
+wwwroot/*.br
+
+# npm packages
+node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# User-specific files
+*.DS_Store
+Thumbs.db
